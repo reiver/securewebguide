@@ -1,6 +1,10 @@
 # The Secure Web: The Definitive Guide
 # by [Charles Iliya Krempeaux](http://changelog.ca/)
 
+|                                                                  |
+|------------------------------------------------------------------|
+| **secure** (_adjective_): able to be trusted, safe, or reliable. |
+
 The **Secure Web** is a _technology platform_.
 
 What some specialists might be tempted to colloquially call a _“tech stack”_.
@@ -19,11 +23,7 @@ That means that these programmers, and other specialists can use many of the sam
 programming languages, programmer libraries, file data formats, etc,
 that they make use of when targeting **Web** for the **Secure Web** also.
 
-## Secure Web TL;DR
-
-|                                                                  |
-|------------------------------------------------------------------|
-| **secure** (_adjective_): able to be trusted, safe, or reliable. |
+## Secure Web: Trustworthiness
 
 For a platform to be **secure** is must be **trustworthy**.
 
@@ -32,3 +32,15 @@ For many if not most people, if there is no **privacy** then there is no **trust
 Part of having a **trustworthy** system is for a user to be able to make his or her _actions_, and _presence_ **private** to some degreee when he or she chooses to.
 
 (Which can also include a user deciding not to be **private** at all, if that is what the user so chooses.)
+
+## Secure Web: Decentralized, Distributed
+
+The (classic) **Web** did have some ability for being **decentralized**, and being **distributed**.
+
+However, there were important ways for which the (classic) **Web** could _not_ be **decentralized**, or **distributed**.
+
+The **Secure Web** has tried to fix many of these deficiencies to evolved into more of a **Decentralized Web**, or **Distributed Web**.
+
+
+
+The **Secure Web** 
