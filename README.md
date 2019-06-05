@@ -61,3 +61,6 @@ The **Secure Web** has tried to fix many of these deficiencies to evolved into m
 
 ## DNS Service Discovery
 
+> “With Zeroconf, you browse for services, not for hardware. […] The important principle here is that
+when you're looking for services on the network, the relevant question is not
+"What are you?" or even "What do you do?" but "Do you speak my language?" ” -- Daniel H. Steinberg, Stuart Cheshire
