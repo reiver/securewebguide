@@ -43,7 +43,9 @@ The **Secure Web** has tried to fix many of these deficiencies to evolved into m
 1. 
 2. [Zero Configuration Networking](#zero-configuration-networking)
 3. 
-
+4. 
+5. [DNS Service Discovery](#dns-service-discovery)
+6. 
 
 ## Zero Configuration Networking
 
@@ -52,3 +54,6 @@ The **Secure Web** has tried to fix many of these deficiencies to evolved into m
 > “The three technologies that make Zeroconf work are link-local addressing, Multicast DNS, and DNS Service Discovery.” -- Daniel H. Steinberg, Stuart Cheshire
 
 > “Understanding how link-local addressing and Multicast DNS work is valuable background information, but when it comes to actual programming, most programmers will interact with Zeroconf through the DNS Service Discovery APIs in their chosen language.” -- Daniel H. Steinberg, Stuart Cheshire
+
+## DNS Service Discovery
+
