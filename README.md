@@ -1,9 +1,7 @@
 # The Secure Web: The Definitive Guide
 # by [Charles Iliya Krempeaux](http://changelog.ca/)
 
-|                                                                  |
-|------------------------------------------------------------------|
-| **secure** (_adjective_): able to be trusted, safe, or reliable. |
+> **secure** (_adjective_): able to be trusted, safe, or reliable.
 
 The **Secure Web** is a _technology platform_.
 
@@ -40,3 +38,15 @@ The (classic) **Web** did have some ability for being **decentralized**, and bei
 However, there were important ways for which the (classic) **Web** could _not_ be **decentralized**, or **distributed**.
 
 The **Secure Web** has tried to fix many of these deficiencies to evolved into more of a **Decentralized Web**, or **Distributed Web**.
+
+# Table of Contents
+1. 
+2. [Zero Configuration Networking](#zero-configuration-networking)
+3. 
+
+
+## Zero Configuration Networking
+
+> “When devices on a network can automatically communicate, advertise, and discover services for themselves, things become possible that simply wouldn't happen if humans had to configure everything manually.” -- Daniel Steinberg, Stuart Cheshire
+
+> “The three technologies that make Zeroconf work are link-local addressing, Multicast DNS, and DNS Service Discovery.” -- Daniel Steinberg, Stuart Cheshire
