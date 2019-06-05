@@ -18,3 +18,17 @@ using **Web** technologies, will find the **Secure Web** familiar.
 That means that these programmers, and other specialists can use many of the same
 programming languages, programmer libraries, file data formats, etc,
 that they make use of when targeting **Web** for the **Secure Web** also.
+
+## Secure Web TL;DR
+
+|                                                                  |
+|------------------------------------------------------------------|
+| **secure** (_adjective_): able to be trusted, safe, or reliable. |
+
+For a platform to be **secure** is must be **trustworthy**.
+
+For many if not most people, if there is no **privacy** then there is no **trustworthiness**.
+
+Part of having a **trustworthy** system is for a user to be able to make his or her _actions_, and _presence_ **private** to some degreee when he or she chooses to.
+
+(Which can also include a user deciding not to be **private** at all, if that is what the user so chooses.)
