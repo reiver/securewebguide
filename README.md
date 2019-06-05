@@ -40,7 +40,3 @@ The (classic) **Web** did have some ability for being **decentralized**, and bei
 However, there were important ways for which the (classic) **Web** could _not_ be **decentralized**, or **distributed**.
 
 The **Secure Web** has tried to fix many of these deficiencies to evolved into more of a **Decentralized Web**, or **Distributed Web**.
-
-
-
-The **Secure Web** 
