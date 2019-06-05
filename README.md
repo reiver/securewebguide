@@ -50,3 +50,5 @@ The **Secure Web** has tried to fix many of these deficiencies to evolved into m
 > “When devices on a network can automatically communicate, advertise, and discover services for themselves, things become possible that simply wouldn't happen if humans had to configure everything manually.” -- Daniel Steinberg, Stuart Cheshire
 
 > “The three technologies that make Zeroconf work are link-local addressing, Multicast DNS, and DNS Service Discovery.” -- Daniel Steinberg, Stuart Cheshire
+
+> “Understanding how link-local addressing and Multicast DNS work is valuable background information, but when it comes to actual programming, most programmers will interact with Zeroconf through the DNS Service Discovery APIs in their chosen language.” -- Daniel Steinberg, Stuart Cheshire
